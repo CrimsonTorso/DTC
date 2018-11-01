@@ -13,6 +13,5 @@ It can also be used on someone else. Only when given permission though.
 
 # Contact
 
-Email: CrimsonTorso@gmail.com
-Github: https://github.com/CrimsonTorso
+* Github: https://github.com/CrimsonTorso
 
